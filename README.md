@@ -41,6 +41,10 @@ I'm open to internship opportunities, freelance work, or any kind of coding coll
 - 💼 LinkedIn: [linkedin.com/in/tauqeer-rahim](https://www.linkedin.com/in/tauqeer-rahim)  
 - 📸 Instagram: [@tauqeer_codes](https://www.instagram.com/tauqeer_codes)
 
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 ---
 
 Feel free to star ⭐ this repo if you like the work, and fork 🍴 it if you’d like to build your own version!
