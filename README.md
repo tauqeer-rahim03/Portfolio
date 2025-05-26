@@ -1,10 +1,5 @@
 # 🌐 Tauqeer Rahim – Developer Portfolio
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fportfolio-cyan-xi-57.vercel.app&label=Live%20Portfolio&style=flat-square&color=brightgreen)](https://portfolio-cyan-xi-57.vercel.app)
-![GitHub last commit](https://img.shields.io/github/last-commit/tauqeer-rahim/portfolio?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/tauqeer-rahim/portfolio?style=flat-square)
-![License](https://img.shields.io/github/license/tauqeer-rahim/portfolio?style=flat-square)
-
 Welcome to my personal portfolio repository! This project showcases my front-end development skills, selected projects, and ways to connect with me. It's built using modern tools and frameworks with a focus on clean design and responsiveness.
 
 ## 🚀 Live Site
