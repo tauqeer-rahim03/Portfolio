@@ -1,4 +1,5 @@
 import {
+    Github,
     Instagram,
     Linkedin,
     Mail,
@@ -103,6 +104,18 @@ export const ContactSection = () => {
                                     target="_blank"
                                 >
                                     <Instagram />
+                                </a>
+                                <a
+                                    href="https://x.com/TauqeerRahim"
+                                    target="_blank"
+                                >
+                                    <Twitter />
+                                </a>
+                                <a
+                                    href="https://github.com/tauqeer-rahim03"
+                                    target="_blank"
+                                >
+                                    <Github />
                                 </a>
                             </div>
                         </div>
