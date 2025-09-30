@@ -3,33 +3,34 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Netflix Clone",
+        title: "YouTube Clone",
         description:
-            " A clone of the popular streaming service Netflix, built using HTML, CSS and JavaScript.",
-        image: "/projects/Netflix.png",
+            "Recreated the YouTube homepage as a pixel-perfect, responsive single-page layout using only advanced HTML5 and CSS3, demonstrating mastery of Flexbox and Grid.",
+        image: "/projects/YouTube.png",
         tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "https://netflix-clone-three-liard-18.vercel.app",
-        githubUrl: "https://github.com/tauqeer-rahim03/Netflix-clone",
+        demoUrl: "https://youtube-clone-one-plum.vercel.app",
+        githubUrl: "https://github.com/tauqeer-rahim03/youtube-clone",
     },
     {
         id: 2,
         title: "SpaceX Clone",
         description:
-            " A clone of the SpaceX website, showcasing launches and missions, built with HTML, CSS and Javascript.",
+            "Developed a multi-page, responsive clone of the SpaceX website using vanilla JavaScript to implement interactive features like scroll-triggered animations and a dynamic mobile menu.",
         image: "/projects/SpaceX.png",
         tags: ["HTML", "CSS", "JavaScript"],
         demoUrl: "https://space-x-clone-ten.vercel.app",
         githubUrl: "https://github.com/tauqeer-rahim03/SpaceX-clone",
     },
+
     {
         id: 3,
-        title: "YouTube Clone",
+        title: "E-Commerce Website",
         description:
-            " A clone of the popular video sharing platform YouTube, built using HTML, CSS and JavaScript.",
-        image: "/projects/YouTube.png",
-        tags: ["HTML", "CSS", "JavaScript"],
-        demoUrl: "https://youtube-clone-one-plum.vercel.app",
-        githubUrl: "https://github.com/tauqeer-rahim03/youtube-clone",
+            "Developed a dynamic, responsive e-commerce application with React featuring product filtering, a shopping cart, and a multi-step checkout simulation.",
+        image: "/projects/E-Commerce.png",
+        tags: ["ReactJs", "TailwindCSS", "API"],
+        demoUrl: "https://future-fs-02-six.vercel.app/",
+        githubUrl: "https://github.com/tauqeer-rahim03/FUTURE_FS_02",
     },
 ];
 
@@ -45,9 +46,9 @@ export const ProjectsSection = () => {
                     crafted with attention to detail and user experience
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {projects.map((project, key) => (
+                    {projects.map((project) => (
                         <div
-                            key={key}
+                            key={project.id}
                             className="group bg-card rounded-lg overflow-hidden shadow-xs card-hover"
                         >
                             <div className="h-48 overflow-hidden">

@@ -23,12 +23,14 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        I&#39;m a front-end developer who enjoys crafting
-                        thoughtful, responsive interfaces that blend design with
-                        functionality. With a growing foundation in React, HTML,
-                        CSS, and JavaScript. I&#39;m focused on building clean,
-                        accessible web experiences while continuously learning
-                        and evolving as a developer.
+                        An enthusiastic and dedicated Web Developer with a
+                        strong grasp of front-end technologies, responsive
+                        design, and modern frameworks. Enjoys creating clean,
+                        user-friendly interfaces and has a track record of
+                        deploying web projects. Is eager to apply his growing
+                        skill set in a collaborative environment, learn from
+                        industry experts, and contribute to impactful
+                        development projects.
                     </p>
                     <div className="opacity-0 animate-fade-in-delay-4 pt-4">
                         <a href="#projects" className="cosmic-button">
